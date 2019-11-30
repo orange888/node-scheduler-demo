@@ -1,5 +1,6 @@
 dhtmlxScheduler with NodeJs
 ===================
+-[https://dhtmlx.com/blog/using-dhtmlxscheduler-with-node-js/](https://dhtmlx.com/blog/using-dhtmlxscheduler-with-node-js/)
 
 Demo of dhtmlxScheduler with NodeJs + MongoDB as backend
 
